@@ -1,5 +1,9 @@
 # Luciano Hanna
 
+Tenho 3 anos de experiência como desenvolvedor Web. Atualmente estou me formando em Ciência da Computação e, além da faculdade, busco estar sempre me aprofundando na área por meio de livros e artigos. 
+
+Possuo experiência em rotinas de desenvolvimento, suporte e manutenção de ERP/CRM, integrações de sistemas através de REST API, otimização de queries SQL e índices de banco de dados MySQL, entre outros projetos diversos. Tenho conhecimento em tecnologias como PHP, Laravel, JavaScript, Vue.js, Node.js, Apache, Linux, Shell Script.
+
 ## Contatos:
 
 [![Gmail Badge](https://img.shields.io/badge/-me@lucianohanna.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@lucianohanna.com.br)](mailto:me@lucianohanna.com.br)
